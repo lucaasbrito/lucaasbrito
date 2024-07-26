@@ -45,11 +45,9 @@
   </a>
 </div>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js" />
+   <img src="https://skillicons.dev/icons?i=git,css,html,js" />
   </a>
 </p>
-<hr>
 <div  align="center"> 
   
   ![snake gif](https://github.com/lucaasbrito/lucaasbrito/blob/output/github-contribution-grid-snake.svg)
