@@ -27,16 +27,13 @@
 </p>
 
  ## MINHAS ESTATÍSTICAS
-<div align="center">
+<div align="left">
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaasbrito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<br />
-<br />
+</div>
+<div align="right">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaasbrito&layout=compact&langs_count=8&theme=algolia"/>
-<br />
-<br />
-<br />
   </a>
 </div>
 
