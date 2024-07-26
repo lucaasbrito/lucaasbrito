@@ -48,10 +48,7 @@
    <img src="https://skillicons.dev/icons?i=git,css,html,js" />
   </a>
 </p>
-<div  align="center"> 
-  
-  ![snake gif](https://github.com/lucaasbrito/lucaasbrito/blob/output/)
-  </div>
+<hr>
 <br>
 <br>
 <div  align="center"> 
