@@ -25,7 +25,7 @@
   </a>
 </p>
 
- ## MINHAS ESTATÍSTICAS
+ ## Github Stats
 <p align="center">
 <a href="https://github.com/lucaasbrito">
   <img height=180em width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaasbrito&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
