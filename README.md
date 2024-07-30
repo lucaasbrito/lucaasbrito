@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Lucas!;" />
   </ul>
 
- ## SOBRE MIM 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -19,7 +19,6 @@
 - No meu tempo livre, gosto de explorar novos jogos e desafios.
 - Tenho experiência como CEO de uma empresa de auto elétrica, onde desenvolvi fortes habilidades de liderança e gestão.
 - Estou aberto a novas oportunidades de trabalho e desafios profissionais. 
-  <br>
 <p align="right">
    <img src="https://skillicons.dev/icons?i=js,html,css,git" />
   </a>
