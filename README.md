@@ -11,14 +11,14 @@
 
 (Javascript | HTML | CSS ) 🚀
 
-- 🏫 Atualmente, estou estudando o curso Starter Full Stack Developer na Growdev.
-- 🌟 Desde cedo, sou apaixonado por tecnologia e programação.
-- 💻 Tenho experiência prática em HTML, CSS, JavaScript e Bootstrap.
-- 🚀 Meu objetivo é me especializar em DevOps e segurança da informação.
-- 🧑‍💻 Acredito no poder do software para resolver problemas reais e estou sempre em busca de novas oportunidades de aprendizado.
-- 🎮 No meu tempo livre, gosto de explorar novos jogos e desafios.
-- 💼 Tenho experiência como CEO de uma empresa de auto elétrica, onde desenvolvi fortes habilidades de liderança e gestão.
-- 🔍 Estou aberto a novas oportunidades de trabalho e desafios profissionais. 
+- Atualmente, estou estudando o curso Starter Full Stack Developer na Growdev.
+- Desde cedo, sou apaixonado por tecnologia e programação.
+- Tenho experiência prática em HTML, CSS, JavaScript e Bootstrap.
+- Meu objetivo é me especializar em DevOps e segurança da informação.
+- Acredito no poder do software para resolver problemas reais e estou sempre em busca de novas oportunidades de aprendizado.
+- No meu tempo livre, gosto de explorar novos jogos e desafios.
+- Tenho experiência como CEO de uma empresa de auto elétrica, onde desenvolvi fortes habilidades de liderança e gestão.
+- Estou aberto a novas oportunidades de trabalho e desafios profissionais. 
   <br>
 <p align="right">
    <img src="https://skillicons.dev/icons?i=js,html,css,git" />
